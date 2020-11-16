@@ -1,2 +1,2 @@
-# assign
+# assignments
 Coursera assignments
