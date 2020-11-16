@@ -1,2 +1,2 @@
-# assign-mod2
+# assign
 Coursera assignments
